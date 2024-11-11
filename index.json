@@ -1,0 +1,19 @@
+{
+    "name": "QuPath index",
+    "description": "Extensions maintained by the QuPath team",
+    "extensions": [{
+        "name": "QuPath InstanSeg extension",
+        "description": "Extension to run InstanSeg inference through QuPath",
+        "homepage": "https://github.com/qupath/qupath-extension-instanseg",
+        "versions": [
+            {
+                "name": "v0.4.0",
+                "mainUrl": "https://github.com/qupath/qupath-extension-instanseg/releases/download/v0.4.0/qupath-extension-instanseg-0.4.0.jar",
+                "qupathCompatible": {
+                    "min": "v0.3.0",
+                    "max": "v0.4.0"
+                }
+            }
+        ]
+    }]
+}

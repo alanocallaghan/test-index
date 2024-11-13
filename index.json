@@ -15,5 +15,27 @@
                 }
             }
         ]
+    },{
+        "name": "QuPath OMERO extension",
+        "description": "QuPath extension to work with images through OMERO's APIs",
+        "homepage": "https://github.com/qupath/qupath-extension-omero",
+        "versions": [
+            {
+                "name": "v0.1.0-rc5",
+                "mainUrl": "https://github.com/qupath/qupath-extension-omero/releases/download/v0.1.0-rc5/qupath-extension-omero-0.1.0-rc5.jar",
+                "qupathCompatible": {
+                    "min": "v0.5.0",
+                    "max": "v0.6.0"
+                }
+            },
+            {
+                "name": "v0.1.0-rc4",
+                "mainUrl": "https://github.com/qupath/qupath-extension-omero/releases/download/v0.1.0-rc4/qupath-extension-omero-0.1.0-rc4.jar",
+                "qupathCompatible": {
+                    "min": "v0.5.0",
+                    "max": "v0.6.0"
+                }
+            }
+        ]
     }]
 }

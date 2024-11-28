@@ -15,7 +15,7 @@
                 "name": "v0.1.0-rc5",
                 "main_url": "https://github.com/qupath/qupath-extension-omero/releases/download/v0.1.0-rc5/qupath-extension-omero-0.1.0-rc5.jar",
                 "optional_dependency_urls": ["https://github.com/ome/openmicroscopy/releases/download/v5.6.14/OMERO.java-5.6.14-ice36.zip"],
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.5.1"
                 }
             },
@@ -23,7 +23,7 @@
                 "name": "v0.1.0-rc4",
                 "main_url": "https://github.com/qupath/qupath-extension-omero/releases/download/v0.1.0-rc4/qupath-extension-omero-0.1.0-rc4.jar",
                 "optional_dependency_urls": ["https://github.com/ome/openmicroscopy/releases/download/v5.6.14/OMERO.java-5.6.14-ice36.zip"],
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.5.1"
                 }
             },
@@ -31,7 +31,7 @@
                 "name": "v0.1.0-rc3",
                 "main_url": "https://github.com/qupath/qupath-extension-omero/releases/download/v0.1.0-rc3/qupath-extension-omero-0.1.0-rc3.jar",
                 "optional_dependency_urls": ["https://github.com/ome/openmicroscopy/releases/download/v5.6.14/OMERO.java-5.6.14-ice36.zip"],
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.5.1"
                 }
             },
@@ -39,7 +39,7 @@
                 "name": "v0.1.0-rc2",
                 "main_url": "https://github.com/qupath/qupath-extension-omero/releases/download/v0.1.0-rc2/qupath-extension-omero-0.1.0-rc2.jar",
                 "optional_dependency_urls": ["https://github.com/ome/openmicroscopy/releases/download/v5.6.14/OMERO.java-5.6.14-ice36.zip"],
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.5.1"
                 }
             },
@@ -47,7 +47,7 @@
                 "name": "v0.1.0-rc1",
                 "main_url": "https://github.com/qupath/qupath-extension-omero/releases/download/v0.1.0-rc1/qupath-extension-omero-0.1.0-rc1.jar",
                 "optional_dependency_urls": ["https://github.com/ome/openmicroscopy/releases/download/v5.6.14/OMERO.java-5.6.14-ice36.zip"],
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.5.1"
                 }
             }
@@ -70,42 +70,42 @@
             {
                 "name": "v0.5.0",
                 "main_url": "https://github.com/qupath/qupath-extension-stardist/releases/download/v0.5.0/qupath-extension-stardist-0.5.0.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.5.0"
                 }
             },
             {
                 "name": "v0.4.0",
                 "main_url": "https://github.com/qupath/qupath-extension-stardist/releases/download/v0.4.0/qupath-extension-stardist-0.4.0.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.4.0"
                 }
             },
             {
                 "name": "v0.3.2",
                 "main_url": "https://github.com/qupath/qupath-extension-stardist/releases/download/v0.3.2/qupath-extension-stardist-0.3.2.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.3.0"
                 }
             },
             {
                 "name": "v0.3.1",
                 "main_url": "https://github.com/qupath/qupath-extension-stardist/releases/download/v0.3.1/qupath-extension-stardist-0.3.1.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.3.0"
                 }
             },
             {
                 "name": "v0.3.0",
                 "main_url": "https://github.com/qupath/qupath-extension-stardist/releases/download/v0.3.0/qupath-extension-stardist-0.3.0.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.3.0"
                 }
             },
             {
                 "name": "v0.3.0-rc2",
                 "main_url": "https://github.com/qupath/qupath-extension-stardist/releases/download/v0.3.0-rc2/qupath-extension-stardist-0.3.0-rc2.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.3.0-rc2"
                 }
             }
@@ -118,21 +118,21 @@
             {
                 "name": "v0.3.0",
                 "main_url": "https://github.com/qupath/qupath-extension-djl/releases/download/v0.3.0/qupath-extension-djl-0.3.0.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.5.0"
                 }
             },
             {
                 "name": "v0.2.0",
                 "main_url": "https://github.com/qupath/qupath-extension-djl/releases/download/v0.2.0/qupath-extension-djl-0.2.0.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.4.3"
                 }
             },
             {
                 "name": "v0.1.0",
                 "main_url": "https://github.com/qupath/qupath-extension-djl/releases/download/v0.1.0/qupath-extension-djl-0.1.0.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.4.0"
                 }
             }
@@ -146,7 +146,7 @@
                 "name": "v0.3.0",
                 "main_url": "https://github.com/qupath/qupath-extension-wsinfer/releases/download/v0.3.0/qupath-extension-wsinfer-0.3.0.jar",
                 "javadoc_urls": ["https://github.com/qupath/qupath-extension-wsinfer/releases/download/v0.3.0/qupath-extension-wsinfer-0.3.0-javadoc.jar"],
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.5.0"
                 }
             },
@@ -154,21 +154,21 @@
                 "name": "v0.2.1",
                 "main_url": "https://github.com/qupath/qupath-extension-wsinfer/releases/download/v0.2.1/qupath-extension-wsinfer-0.2.1.jar",
                 "javadoc_urls": ["https://github.com/qupath/qupath-extension-wsinfer/releases/download/v0.2.1/qupath-extension-wsinfer-0.2.1-javadoc.jar"],
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.4.0"
                 }
             },
             {
                 "name": "v0.2.0",
                 "main_url": "https://github.com/qupath/qupath-extension-wsinfer/releases/download/v0.2.0/qupath-extension-wsinfer-0.2.0.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.4.0"
                 }
             },
             {
                 "name": "v0.1.0",
                 "main_url": "https://github.com/qupath/qupath-extension-wsinfer/releases/download/v0.1.0/qupath-extension-wsinfer-0.1.0.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.4.0"
                 }
             }
@@ -181,13 +181,13 @@
             {
                 "name": "v0.3.0",
                 "main_url": "https://github.com/qupath/qupath-extension-jpen/releases/download/v0.3.0/qupath-extension-jpen-0.3.0-all.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.3.0"
                 }
             },{
                 "name": "v0.3.0-rc2",
                 "main_url": "https://github.com/qupath/qupath-extension-jpen/releases/download/v0.3.0-rc2/qupath-extension-jpen-0.3.0-rc2-all.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.3.0"
                 }
             }
@@ -200,20 +200,20 @@
             {
                 "name": "v0.4.0",
                 "main_url": "https://github.com/qupath/qupath-extension-align/releases/download/v0.4.0/qupath-extension-align-0.4.0.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.5.0"
                 }
             },{
                 "name": "v0.3.0",
                 "main_url": "https://github.com/qupath/qupath-extension-align/releases/download/v0.3.0/qupath-extension-align-0.3.0.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.3.0",
                     "max": "v0.4.3"
                 }
             },{
                 "name": "v0.3.0-rc2",
                 "main_url": "https://github.com/qupath/qupath-extension-align/releases/download/v0.3.0-rc2/qupath-extension-align-0.3.0-rc2.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.3.0-rc2",
                     "max": "v0.3.0-rc2"
                 }
@@ -227,7 +227,7 @@
             {
                 "name": "v0.1.0",
                 "main_url": "https://github.com/qupath/qupath-extension-bioimageio/releases/download/v0.1.0/qupath-extension-bioimageio-0.1.0.jar",
-                "qupath_versions": {
+                "versions": {
                     "min": "v0.4.0"
                 }
             }
